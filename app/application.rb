@@ -9,5 +9,6 @@ class Application
     end
     resp.finish
   end
+  puts = Time.now
 
 end
